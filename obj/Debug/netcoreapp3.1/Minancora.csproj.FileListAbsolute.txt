@@ -1,0 +1,13 @@
+B:\GitRepositories\Minancora\bin\Debug\netcoreapp3.1\Minancora.exe
+B:\GitRepositories\Minancora\bin\Debug\netcoreapp3.1\Minancora.deps.json
+B:\GitRepositories\Minancora\bin\Debug\netcoreapp3.1\Minancora.runtimeconfig.json
+B:\GitRepositories\Minancora\bin\Debug\netcoreapp3.1\Minancora.runtimeconfig.dev.json
+B:\GitRepositories\Minancora\bin\Debug\netcoreapp3.1\Minancora.dll
+B:\GitRepositories\Minancora\bin\Debug\netcoreapp3.1\Minancora.pdb
+B:\GitRepositories\Minancora\obj\Debug\netcoreapp3.1\Minancora.csprojAssemblyReference.cache
+B:\GitRepositories\Minancora\obj\Debug\netcoreapp3.1\Minancora.AssemblyInfoInputs.cache
+B:\GitRepositories\Minancora\obj\Debug\netcoreapp3.1\Minancora.AssemblyInfo.cs
+B:\GitRepositories\Minancora\obj\Debug\netcoreapp3.1\Minancora.csproj.CoreCompileInputs.cache
+B:\GitRepositories\Minancora\obj\Debug\netcoreapp3.1\Minancora.dll
+B:\GitRepositories\Minancora\obj\Debug\netcoreapp3.1\Minancora.pdb
+B:\GitRepositories\Minancora\obj\Debug\netcoreapp3.1\Minancora.genruntimeconfig.cache
